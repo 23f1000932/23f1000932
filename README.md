@@ -1,4 +1,4 @@
-## 👋 About Me
+# 👋 About Me
 
 I'm **Ayan**, a Data Science and AI student at **IIT Madras** passionate about building intelligent applications with **Machine Learning**, **Generative AI**, and **LLMs**. I enjoy developing AI agents, RAG-powered systems, and scalable backend solutions using Python and FastAPI.
 
