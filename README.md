@@ -1,15 +1,150 @@
-# 👋 About Me
+<div align="center">
 
-I'm **Ayan**, a Data Science and AI student at **IIT Madras** passionate about building intelligent applications with **Machine Learning**, **Generative AI**, and **LLMs**. I enjoy developing AI agents, RAG-powered systems, and scalable backend solutions using Python and FastAPI.
+# 👋 Ayan Hussain
 
-I'm always exploring new technologies, building impactful projects, and working toward becoming an AI Engineer who creates real-world AI products.
+### AI/ML Engineer in the making — Agentic Systems × MLOps
 
+[![Email](https://img.shields.io/badge/Email-ayanhussain4212%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayanhussain4212@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-23f1000932-181717?style=flat&logo=github)](https://github.com/23f1000932)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-hussain-58752626b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6c47ff?style=flat&logo=vercel&logoColor=white)](https://23f1000932.github.io/Ayan-Hussain/)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._a.y.a.n_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-hussain-58752626b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayanhussain4212@gmail.com) 
+![Status](https://img.shields.io/badge/status-open_to_AI%2FML_roles-brightgreen)
+![Focus](https://img.shields.io/badge/focus-Agentic_AI_%7C_RAG_%7C_MLOps-blue)
+![Education](https://img.shields.io/badge/IIT_Madras-B.S._Data_Science-orange)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</div>
+
+---
+
+## 🧭 About
+
+B.S. Data Science & Applications student at IIT Madras (2023–2027, CGPA 7.9/10), building toward AI/ML engineering — specifically **agentic AI/RAG systems** and the **MLOps infrastructure** that gets them into production. I like owning projects end-to-end: data engineering → model development → backend delivery → containerized deployment, not just one layer of the stack.
+
+> 🎯 **Currently:** looking for AI/ML engineering roles and internships.
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / LLM Engineering**
+
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq_LLaMA--3.3-F55036?style=flat)
+![Azure AI Search](https://img.shields.io/badge/-Azure_AI_Search-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**MLOps**
+
+![DVC](https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=dvc&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Feast](https://img.shields.io/badge/-Feast-00A3E0?style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP%2FVertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%2FSupabase-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**ML / Data Science**
+
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-005A9C?style=flat)
+![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+## 🚀 Project Highlights
+
+### 🇮🇳 BharatBot — Flagship Project
+**Multilingual multi-agent RAG assistant** · Gemini + Azure AI Search + Azure Speech/Translator
+
+Led a 5-person team building an agentic system across agriculture, health, and legal domains, serving web + voice interfaces in **7 Indian languages**.
+
+🏆 **Top 250 teams** — Microsoft AI Unlocked Campus Edition 2026 (invite-only, IITs/IIMs/ISB/XLRI/NID)
+
+---
+
+### 🌱 EcoQuest India — AI-Verified Sustainability Platform
+**React 19 + FastAPI + Gemini 2.5 Flash Vision**
+
+Multimodal verification pipeline classifying eco-action photo uploads across 8 activity types — auto-approves above 70% confidence, routes the rest to human review. Anti-abuse layer combines perceptual-hash duplicate detection with rate limiting.
+
+---
+
+### 📈 MLOps Pipeline for Stock Movement Prediction
+**DVC + Feast + MLflow + CI/CML on GCP**
+
+End-to-end productionized pipeline: DVC-versioned OHLCV data on a GCS remote, a Feast feature store with validated point-in-time correctness, an 8-run MLflow hyperparameter sweep with model registry, and a GitHub Actions + CML pipeline for automated evaluation.
+
+```
+Data Versioning (DVC) → Feature Store (Feast) → Experiment Tracking (MLflow) → CI/CD (GitHub Actions + CML)
+```
+
+---
+
+### 🏆 LiveSports — Sports Event Management Platform
+**Flask-RESTX + Vue 3/TypeScript** · Client: Beyond Thoughts
+
+Backend developer + code reviewer — 33 REST endpoints, a Groq LLaMA-3.3-70B RAG chatbot with function calling, Razorpay payments with HMAC-SHA256 webhook verification, 65 pytest cases.
+
+---
+
+### 🤖 Gemini WebGen Agent — Autonomous Web App Generator
+**FastAPI + Gemini 2.5 Flash + GitHub API**
+
+Takes a task brief over HTTP, generates a complete single-file web app, and auto-commits/deploys to GitHub Pages with zero manual intervention. Includes a **Safe Mode** that rejects any agent-generated update under 30% of the original file size.
+
+---
+
+### 🇮🇳 Aadhaar System Optimisation Analysis
+**Scikit-Learn + Next.js**
+
+Analyzed 110M+ transactions → surfaced ~**Rs 370 Cr** in annual inefficiencies and a **77x** rural-urban service gap. Findings shipped as an interactive Next.js dashboard.
+
+---
+
+<details>
+<summary>🎮 More builds (click to expand)</summary>
+
+- **Cinema Audience Forecasting** — XGBoost/LightGBM ensemble, Optuna-tuned, 18% RMSE reduction over baseline
+- **KisanRoute** — Google Solution Challenge entry combining data.gov.in agricultural pricing with Gemini recommendations
+- **CarbonSense** — ranked **#1272 of 34,000+** in Google Prompt Wars
+- **Vehicle Parking System** — Flask + Vue + Redis + Celery
+- **Customer Churn Prediction**, **Quiz Master**
+
+</details>
+
+---
+
+## 📊 Snapshot
+
+| | |
+|---|---|
+| 🎓 Education | B.S. Data Science & Applications, IIT Madras (2023–2027) — CGPA 7.9/10 |
+| 🏆 Hackathons | Top 250 @ Microsoft AI Unlocked · #1272/34K @ Google Prompt Wars |
+| 🧩 Core stack | LangChain/LangGraph, Gemini API, DVC/Feast/MLflow, FastAPI, Docker |
+| 🎯 Next milestone | Production vector-DB & on-prem model-serving experience |
+| 📬 Status | Open to AI/ML engineering roles & internships |
+
+---
+
+## ⚡ How I Work
+
+I lean on prompt-driven coding tools like Cursor and Claude Code for scaffolding, and pick up new tooling fast — DVC, Feast, MLflow, LangGraph, and the Gemini API all went from unfamiliar to production-used within tight timelines. Most of my work happens in small, cross-functional teams where I end up owning architecture decisions alongside implementation.
+
+<div align="center">
+
+*Building agentic AI systems, one production pipeline at a time.* 🚀
+
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=23f1000932&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=23f1000932&theme=neon&hide_border=false)<br/>
